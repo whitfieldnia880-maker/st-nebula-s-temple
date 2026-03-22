@@ -51,7 +51,7 @@ const TributeSection = () => {
 
           {/* CashApp */}
           <a
-            href="https://cash.app"
+            href="https://cash.app/$MoneyBratAndAngel"
             target="_blank"
             rel="noopener noreferrer"
             className={`group relative block p-8 rounded-lg border border-celestial/10 bg-card/50 hover:border-celestial/30 transition-all duration-500 shimmer border-glow ${visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-5'}`}
