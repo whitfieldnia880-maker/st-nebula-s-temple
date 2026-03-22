@@ -3,6 +3,7 @@ import TenetsSection from "@/components/TenetsSection";
 import GallerySection from "@/components/GallerySection";
 import TestimonialsSection from "@/components/TestimonialsSection";
 import TributeSection from "@/components/TributeSection";
+import RanksSection from "@/components/RanksSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -12,6 +13,7 @@ const Index = () => {
       <TenetsSection />
       <GallerySection />
       <TestimonialsSection />
+      <RanksSection />
       <TributeSection />
       <Footer />
     </main>
