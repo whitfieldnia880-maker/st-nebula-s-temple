@@ -32,7 +32,7 @@ const TributeSection = () => {
         <div className="grid gap-6 md:grid-cols-2">
           {/* Throne */}
           <a
-            href="https://throne.com"
+            href="https://throne.com/stnebula2dfd"
             target="_blank"
             rel="noopener noreferrer"
             className={`group relative block p-8 rounded-lg border border-celestial/10 bg-card/50 hover:border-celestial/30 transition-all duration-500 shimmer border-glow ${visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-5'}`}
